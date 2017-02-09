@@ -1,0 +1,10 @@
+F:\DM072\uge34\ChatSolutions\ChatServerDesign_02_NoLock\obj\Debug\ResolveAssemblyReference.cache
+F:\DM072\uge34\ChatSolutions\ChatServerDesign_02_NoLock\bin\Debug\ChatServerDesign_02_NoLock.exe
+F:\DM072\uge34\ChatSolutions\ChatServerDesign_02_NoLock\bin\Debug\ChatServerDesign_02_NoLock.pdb
+F:\DM072\uge34\ChatSolutions\ChatServerDesign_02_NoLock\obj\Debug\ChatServerDesign_02_NoLock.exe
+F:\DM072\uge34\ChatSolutions\ChatServerDesign_02_NoLock\obj\Debug\ChatServerDesign_02_NoLock.pdb
+F:\DM072\uge34\20080821\SocetChatServerDesign\ChatServerDesign_02_NoLock\bin\Debug\ChatServerDesign_02_NoLock.exe
+F:\DM072\uge34\20080821\SocetChatServerDesign\ChatServerDesign_02_NoLock\bin\Debug\ChatServerDesign_02_NoLock.pdb
+F:\DM072\uge34\20080821\SocetChatServerDesign\ChatServerDesign_02_NoLock\obj\Debug\ResolveAssemblyReference.cache
+F:\DM072\uge34\20080821\SocetChatServerDesign\ChatServerDesign_02_NoLock\obj\Debug\ChatServerDesign_02_NoLock.exe
+F:\DM072\uge34\20080821\SocetChatServerDesign\ChatServerDesign_02_NoLock\obj\Debug\ChatServerDesign_02_NoLock.pdb

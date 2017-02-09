@@ -1,0 +1,5 @@
+F:\dm082\eksempler\SocetChatServerDesign\ChatServerDesign_02_NoLock\bin\Debug\ChatServerDesign_02_NoLock.exe
+F:\dm082\eksempler\SocetChatServerDesign\ChatServerDesign_02_NoLock\bin\Debug\ChatServerDesign_02_NoLock.pdb
+F:\dm082\eksempler\SocetChatServerDesign\ChatServerDesign_02_NoLock\obj\Debug\ResolveAssemblyReference.cache
+F:\dm082\eksempler\SocetChatServerDesign\ChatServerDesign_02_NoLock\obj\Debug\ChatServerDesign_02_NoLock.exe
+F:\dm082\eksempler\SocetChatServerDesign\ChatServerDesign_02_NoLock\obj\Debug\ChatServerDesign_02_NoLock.pdb

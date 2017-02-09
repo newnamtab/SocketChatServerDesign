@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Microsoft Sans Serif" Size="8.25" />
+  <Class Name="ChatServerDesign_04_NoLock.ChatService">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ChatService.cs</FileName>
+      <HashCode>AAAAgAAAAAAAQAAAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <NestedTypes>
+      <Delegate Name="ChatServerDesign_04_NoLock.ChatService.BroardCastEventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ChatService.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+  </Class>
+  <Class Name="ChatServerDesign_04_NoLock.ClientHandler">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ClientHandler.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAABAAAAAABAAAABQCAAACQggAACQAAA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="chatService" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ChatServerDesign_04_NoLock.Server">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Server.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="chatService" />
+    </ShowAsAssociation>
+  </Class>
+</ClassDiagram>

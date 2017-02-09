@@ -1,0 +1,9 @@
+F:\dm082\eksempler\SocetChatServerDesign\ChatServerDesign_00\obj\Debug\ChatServerDesign_00.exe
+F:\dm082\eksempler\SocetChatServerDesign\ChatServerDesign_00\obj\Debug\ChatServerDesign_00.pdb
+F:\dm082\eksempler\SocetChatServerDesign\ChatServerDesign_00\bin\Debug\ChatServerDesign_00.exe
+F:\dm082\eksempler\SocetChatServerDesign\ChatServerDesign_00\bin\Debug\ChatServerDesign_00.pdb
+F:\dm082\eksempler\SocetChatServerDesign\ChatServerDesign_00\obj\Debug\ResolveAssemblyReference.cache
+D:\__dm13_VinterDK_SDP\work\SocetChatServerDesign\ChatServerDesign_00\obj\Debug\ChatServerDesign_00.exe
+D:\__dm13_VinterDK_SDP\work\SocetChatServerDesign\ChatServerDesign_00\obj\Debug\ChatServerDesign_00.pdb
+D:\__dm13_VinterDK_SDP\uge37\SocetChatServerDesign\ChatServerDesign_00\obj\Debug\ChatServerDesign_00.exe
+D:\__dm13_VinterDK_SDP\uge37\SocetChatServerDesign\ChatServerDesign_00\obj\Debug\ChatServerDesign_00.pdb

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Microsoft Sans Serif" Size="8.25" />
+  <Class Name="ChatServerDesign_03_NoLock.ClientHandler">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ClientHandler.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAABAAAAAABAAAABQCAAACQgAAACQAAA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="writer" />
+      <Field Name="chatService" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="System.IO.StreamWriter" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="ChatServerDesign_03_NoLock.Server">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Server.cs</FileName>
+      <HashCode>AAgAAAAAAAAAQAAgAAAAAAQAAQAEAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="clientWriters" />
+    </ShowAsCollectionAssociation>
+  </Class>
+</ClassDiagram>

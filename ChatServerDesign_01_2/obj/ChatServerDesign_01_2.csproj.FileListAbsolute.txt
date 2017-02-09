@@ -1,0 +1,5 @@
+F:\DM072\uge34\ChatSolutions\ChatServerDesign_01_2\bin\Debug\ChatServerDesign_01_2.exe
+F:\DM072\uge34\ChatSolutions\ChatServerDesign_01_2\bin\Debug\ChatServerDesign_01_2.pdb
+F:\DM072\uge34\ChatSolutions\ChatServerDesign_01_2\obj\Debug\ResolveAssemblyReference.cache
+F:\DM072\uge34\ChatSolutions\ChatServerDesign_01_2\obj\Debug\ChatServerDesign_01_2.exe
+F:\DM072\uge34\ChatSolutions\ChatServerDesign_01_2\obj\Debug\ChatServerDesign_01_2.pdb

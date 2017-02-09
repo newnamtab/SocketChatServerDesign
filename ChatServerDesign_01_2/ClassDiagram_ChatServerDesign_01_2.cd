@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ChatServerDesign_01_2.ClientHandler">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <AssociationLine Name="clientWriters" Type="System.IO.StreamWriter" FixedFromPoint="true">
+      <Path>
+        <Point X="2" Y="2.125" />
+        <Point X="4" Y="2.125" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="writer" Type="System.IO.StreamWriter" FixedFromPoint="true">
+      <Path>
+        <Point X="2" Y="2.625" />
+        <Point X="4" Y="2.625" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABgAAAAABAAAABACAAACQgAAACQAAA=</HashCode>
+      <FileName>ClientHandler.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="writer" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="clientWriters" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="ChatServerDesign_01_2.Server">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Server.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="clientWriters" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="System.IO.StreamWriter">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Microsoft Sans Serif" Size="8.25" />
+</ClassDiagram>

@@ -1,0 +1,5 @@
+F:\DM072\uge34\ChatSolutions\ChatServerDesign_00_NoTryCatch\obj\Debug\ResolveAssemblyReference.cache
+F:\DM072\uge34\ChatSolutions\ChatServerDesign_00_NoTryCatch\bin\Debug\ChatServerDesign_00_NoTryCatch.exe
+F:\DM072\uge34\ChatSolutions\ChatServerDesign_00_NoTryCatch\bin\Debug\ChatServerDesign_00_NoTryCatch.pdb
+F:\DM072\uge34\ChatSolutions\ChatServerDesign_00_NoTryCatch\obj\Debug\ChatServerDesign_00_NoTryCatch.exe
+F:\DM072\uge34\ChatSolutions\ChatServerDesign_00_NoTryCatch\obj\Debug\ChatServerDesign_00_NoTryCatch.pdb

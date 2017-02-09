@@ -1,0 +1,12 @@
+F:\DM072\uge34\ChatSolutions\ChatServerDesign_00\obj\Debug\ResolveAssemblyReference.cache
+F:\DM072\uge34\ChatSolutions\ChatServerDesign_00\bin\Debug\ChatServerDesign_00.exe
+F:\DM072\uge34\ChatSolutions\ChatServerDesign_00\bin\Debug\ChatServerDesign_00.pdb
+F:\DM072\uge34\ChatSolutions\ChatServerDesign_00\obj\Debug\ChatServerDesign_00.exe
+F:\DM072\uge34\ChatSolutions\ChatServerDesign_00\obj\Debug\ChatServerDesign_00.pdb
+F:\DM072\uge34\SocetChatServerDesign\ChatServerDesign_00\obj\Debug\ChatServerDesign_00.exe
+F:\DM072\uge34\SocetChatServerDesign\ChatServerDesign_00\obj\Debug\ChatServerDesign_00.pdb
+F:\DM072\uge34\20080821\SocetChatServerDesign\ChatServerDesign_00\obj\Debug\ChatServerDesign_00.exe
+F:\DM072\uge34\20080821\SocetChatServerDesign\ChatServerDesign_00\obj\Debug\ChatServerDesign_00.pdb
+F:\DM072\uge34\20080821\SocetChatServerDesign\ChatServerDesign_00\bin\Debug\ChatServerDesign_00.exe
+F:\DM072\uge34\20080821\SocetChatServerDesign\ChatServerDesign_00\bin\Debug\ChatServerDesign_00.pdb
+F:\DM072\uge34\20080821\SocetChatServerDesign\ChatServerDesign_00\obj\Debug\ResolveAssemblyReference.cache
